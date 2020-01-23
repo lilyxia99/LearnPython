@@ -1,0 +1,47 @@
+type "python3" in terminal
+and then it will run python
+then type "print('hello')"
+and then it can show hello
+
+cd + (drag the file into terminal)
+
+cd=change directory
+rm=delete file
+ls=list files
+
+(--refer to command line cheat sheet)
+
+/Applications/Python\ 3.8 --drag the file in terminal to get the path
+
+print('I luv'[0])--> I
+
+no space, python keywords, or symbol for variables
+a variable: number sring or another variable
+
+days = ["Mon", "Tue"]
+
+for d in days:
+    print(d)
+    
+import sth. as XXX ==简写
+
+from matplotlib import pyplot as plt #don't have the type the whole thing out
+import numpy as np 
+from PIL import image 
+comment as #
+
+【from matplotlib import pyplot as plt
+import cv2
+import numpy as np】
+
+numpy
+imread/imshow/imwrite built in functions
+img.shape: returns number of rows, columns, channels (height in px, width in px, channels 
+waitKey
+
+make sure the directory is correct and then 
+
+imshow=显示
+imwrite =   保存
+
+daytime module
